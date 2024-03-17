@@ -40,11 +40,4 @@ Interact with the map to explore property assessments:
 - [Leaflet](https://leafletjs.com/) for interactive maps
 - [Chart.js](https://www.chartjs.org/) for dynamic charting
 
-## Contributing
-Contributions to the project are welcome. Please fork the repository and submit a pull request with your suggested changes.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contact
-For questions and feedback, please contact [Your Name] at [Your Email].
